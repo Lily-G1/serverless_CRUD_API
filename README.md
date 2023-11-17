@@ -10,3 +10,8 @@ modifying these items, retrieving and deleting them.
 
 For a detailed guide on how to achieve this on AWS, i have created this [blogpost](https://liliangaladima.hashnode.dev/build-a-serverless-crud-api-with-aws) where i provide a step-by-step build process.
 
+## Prerequisites  
+- An AWS account (this project can be achieved on free-tier & costs $0.00)  
+- A Github account
+- A Postman account for testing API functionality  
+
