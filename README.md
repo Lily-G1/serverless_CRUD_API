@@ -4,8 +4,7 @@ This repository contains python code required to run a lambda function. This fun
 
 ![CRUD-Dark drawio](https://github.com/Lily-G1/serverless_CRUD_API/assets/104821662/c6c3838d-7fe9-4f41-85ad-44e91a26a882)  
 
-As CRUD implies, this application allows us to carry out basic but crucial functionalities of adding items to our database,  
-modifying these items, retrieving and deleting them.  
+As CRUD implies, this application allows us to carry out basic but crucial functionalities of adding items to our database, modifying these items, retrieving and deleting them.  
 
 For a detailed guide on how to achieve this on AWS, i have created this [blogpost](https://liliangaladima.hashnode.dev/build-a-serverless-crud-api-with-aws) where i provide a step-by-step build process.
 
